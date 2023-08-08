@@ -159,3 +159,8 @@ and you can ask like
 `What is bitcoin?`
 
 ![](assets/20230808231150.png)
+and finally you can click in preview
+and give some questions.
+![](assets/20230808231527.png)
+
+**Congratulations** You have created a simple chatbot with Watson Assistant with WatsonX and Watson Discovery.
